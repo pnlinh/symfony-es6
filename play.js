@@ -1,3 +1,5 @@
+console.log(aGreatNumber);
+
 let aGreatNumber = 10;
 
 if (true) {
