@@ -1,0 +1,11 @@
+{
+  "name": "symfony-es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pnlinh/symfony-es6.git",
+  "author": "Ngoc Linh Pham <pnlinh1207@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
